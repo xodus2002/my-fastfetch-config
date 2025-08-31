@@ -6,7 +6,6 @@
     "logo": {
         "type": "auto",        // Logo type: auto, builtin, small, file, etc.
         "source": "/home/roboto0510/.config/fastfetch/ascii.txt",      // Built-in logo name or file path
-        "width": 25,           // Width in characters (for image logos)
         "height": 17,          // Height in characters (for image logos)
         "padding": {
             "top": 0,          // Top padding
