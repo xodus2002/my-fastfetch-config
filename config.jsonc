@@ -8,9 +8,9 @@
         "source": "/home/roboto0510/.config/fastfetch/ascii.txt",      // Built-in logo name or file path
         "height": 17,          // Height in characters (for image logos)
         "padding": {
-            "top": 0,          // Top padding
-            "left": 0,         // Left padding
-            "right": 2         // Right padding
+            "top": 1,          // Top padding
+            "left": 1,         // Left padding
+            "right": 1         // Right padding
         }
     },
     "display": {
